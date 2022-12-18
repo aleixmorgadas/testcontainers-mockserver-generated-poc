@@ -1,0 +1,4 @@
+rootProject.name = 'testcontainersmockserverpoc'
+include 'provider'
+include 'consumer'
+
